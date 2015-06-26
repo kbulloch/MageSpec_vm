@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <PHPSpec_Helloworld>
+            <version>1.0.0</version>
+        </PHPSpec_Helloworld>
+    </modules>
+
+    <global>
+        <blocks>
+            <phpspec_helloworld>
+                <class>PHPSpec_Helloworld_Block</class>
+            </phpspec_helloworld>
+        </blocks>
+    </global>
+</config>
